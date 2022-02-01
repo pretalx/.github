@@ -12,3 +12,4 @@ and involved, double-blind review processes. Learn more on our [features](https:
 - [💬 discussions](https://github.com/pretalx/pretalx/discussions) for questions and feature requests
 - [pretalx plugins](https://github.com/pretalx?q=plugin+in%3Areadme&type=all&language=&sort=)
 - [list of pretalx events](https://github.com/pretalx/pretalx/wiki/Events)
+- [pretalx hosting](https://pretalx.com/p/about/)
